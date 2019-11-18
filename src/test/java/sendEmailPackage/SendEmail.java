@@ -2,6 +2,7 @@ package sendEmailPackage;
 
 /**
  * @author jigarsony
+ * date : 18 Nov'19
  */
 
 import org.apache.commons.mail.DefaultAuthenticator;
